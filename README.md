@@ -1,6 +1,7 @@
 🌍 GulfParcels Marketplace Analytics
 
 📌 Project Overview
+
 GulfParcels is a data-driven project analyzing the feasibility of a peer-to-peer luggage logistics platform combined with a cultural marketplace connecting Gulf countries with Africa and South Asia.
 
 
